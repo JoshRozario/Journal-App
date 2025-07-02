@@ -1,0 +1,28 @@
+#keys for firebase
+firebase.config.js
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*  # Covers .env.development, .env.production etc.
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# Logs
+npm-debug.log*
+
+# OS metadata
+*.log
+*.pid
